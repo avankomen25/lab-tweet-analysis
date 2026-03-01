@@ -1,3 +1,4 @@
+## Frequency of Key Phrases in Tweets
 | phrase            | percent of tweets |
 | ----------------- | ----------------- |
 |             china | 01.82             |
@@ -11,7 +12,7 @@
 
 ![Bar Chart of Tweet Word Frequencies](tweet_word_frequencies.png)
 
-This table and chart show how frequently certain keywords appear in Donald Trump's Twitter history from 2009 until 2021 (the most recently updated data from the Trump Twitter Archive).
+This table and chart show how frequently certain key words and phrases appear in Donald Trump's Twitter history from 2009 until 2021 (the most recently updated data from the Trump Twitter Archive).
 
 ## Tweets by Hour (Pacific Time)
 
@@ -23,4 +24,4 @@ This chart shows the distribution of tweets by hour of day in Pacific Time.
 
 ![Tweets by Year](tweets_by_year.png)
 
-This chart shows the number of tweets posted each year from 2009-2021. (Note Trump's Twitter ban in 2021)
+This chart shows the number of tweets posted each year from 2009-2021 (Note Trump's Twitter ban in 2021).
