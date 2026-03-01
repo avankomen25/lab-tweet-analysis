@@ -18,10 +18,10 @@ This table and chart show how frequently certain key words and phrases appear in
 
 ![Tweets by Hour](tweets_by_hour_pacific.png)
 
-This chart shows the distribution of Donald Trump's tweets by hour of day in Pacific Time.
+This chart shows the distribution of Donald Trump's tweets by hour of day in Pacific Time from 2009 to 2021.
 
 ## Trump's Tweets by Year
 
 ![Tweets by Year](tweets_by_year.png)
 
-This chart shows the number of Donald Trump's tweets posted each year from 2009-2021 (Note Trump's Twitter ban in 2021).
+This chart shows the number of Donald Trump's tweets posted each year from 2009 to 2021 (Note Trump's Twitter ban in 2021).
